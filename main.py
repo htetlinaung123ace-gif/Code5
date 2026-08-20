@@ -12,7 +12,7 @@ BOT_TOKEN = '8942592569:AAGcjOSGa4hluh_IAZASmzWi7Cz57rBiGqc'
 GITHUB_TOKEN = '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'
 ADMIN_ID = "5854918261"
 REPO_OWNER = "htetlinaung123ace-gif"
-REPO_NAME = ""
+REPO_NAME = "Code5"
 
 # ── Global structures ─────────────────────────────────────────────────────
 SUCCESS_CODE = asyncio.Queue()
